@@ -1,8 +1,8 @@
 name: refresh_circular_progression
-description: A new Flutter package.
+description: This is a package providing you with a cudtomized circular progress bar
 version: 0.0.1
-author:
-homepage:
+author: venance soviguidi<soviguidivenance@gmail.com>
+homepage: https://github.com/zetsu01/flutter_custom_circular_progress_indicator
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
