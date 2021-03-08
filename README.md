@@ -1,14 +1,20 @@
 # refresh_circular_progression
 
-A new Flutter package.
+New widget to add shadow effect to your # circular progress indicator
 
 ## Getting Started
+``` yaml
+  dependencies:
+    refresh_circular_progression: ^0.0.2
 
-This project is a starting point for a Dart
-[package](https://flutter.dev/developing-packages/),
-a library module containing code that can be shared easily across
-multiple Flutter or Dart projects.
+```
+# Usage
+Import `package:refresh_circular_progression/refresh_circular_progression.dart`
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+Example: 
+```dart
+import 'package:refresh_circular_progression/refresh_circular_progression.dart';
+Center(
+        child: CustomCircularProgress.show(context), // context is required for default value
+      )
+```
