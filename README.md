@@ -19,3 +19,5 @@ Center(
   child: CustomCircularProgress.show(context), // context is required for default value
 )
 ```
+## Demo
+![](assets/Screenshot.jpg)
