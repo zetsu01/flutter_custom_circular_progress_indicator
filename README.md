@@ -14,6 +14,7 @@ Import `package:refresh_circular_progression/refresh_circular_progression.dart`
 Example: 
 ```dart
 import 'package:refresh_circular_progression/refresh_circular_progression.dart';
+
 Center(
   child: CustomCircularProgress.show(context), // context is required for default value
 )
